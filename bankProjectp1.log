@@ -1,0 +1,242 @@
+﻿  clsFindCurrencyScreen.cpp
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUser.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUser.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUser.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\Global.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsCurrencies.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+  Source.cpp
+D:\anas_Projects\bankProjectp1\bankProjectp1\Source.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\Global.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUser.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUser.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUser.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(29,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(307,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(320,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\Source.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\anas_Projects\bankProjectp1\bankProjectp1\Source.cpp(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsShowClientsList.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsShowClientsList.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsAddNewClientScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsAddNewClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsAddNewClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsDeleteClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsDeleteClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsDeleteClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUpdateClientScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUpdateClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUpdateClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsFindClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsFindClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsFindClientScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsDepositScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsDepositScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsDepositScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsShowClientsBalanceScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsShowClientsBalanceScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionScreen.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsTransactionLogScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsManageUsersScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsManageUsersScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsAddUsersScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsMainScreen.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsCurrencyScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsCurrencies.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsLoginScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsLoginScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsLoginScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsLoginScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+  Generating Code...
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(268,1): warning C4715: 'clsBankClient::saveResult': not all control paths return a value
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(78,1): warning C4715: 'clsBankClient::_loadClientDataFromFileToVector': not all control paths return a value
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsUser.h(323,1): warning C4715: 'clsUser::save': not all control paths return a value
+D:\anas_Projects\bankProjectp1\bankProjectp1\clsBankClient.h(375,1): warning C4715: 'clsBankClient::getClientsOfTransferringList': not all control paths return a value
+  bankProjectp1.vcxproj -> D:\anas_Projects\bankProjectp1\x64\Debug\bankProjectp1.exe
